@@ -1,9 +1,8 @@
-package com.example.desafiofireabse.ui
+package com.example.desafiofireabse
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.desafiofireabse.R
 import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity : AppCompatActivity() {

@@ -1,11 +1,10 @@
-package com.example.desafiofireabse.ui
+package com.example.desafiofireabse
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import com.example.desafiofireabse.R
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

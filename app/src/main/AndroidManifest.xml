@@ -9,13 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DesafioFireabse">
-        <activity android:name=".ui.EditarJogoActivity"></activity>
-        <activity android:name=".ui.AdicionarJogoActivity" />
-        <activity android:name=".ui.JogoActivity" />
-        <activity android:name=".ui.RegisterActivity" />
-        <activity android:name=".ui.LoginActivity" />
-        <activity android:name=".ui.MainActivity" />
-        <activity android:name=".ui.SplashActivity">
+        <activity android:name=".EditarJogoActivity"></activity>
+        <activity android:name=".ui.EditarJogoActivity" />
+        <activity android:name=".AdicionarJogoActivity" />
+        <activity android:name=".JogoActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

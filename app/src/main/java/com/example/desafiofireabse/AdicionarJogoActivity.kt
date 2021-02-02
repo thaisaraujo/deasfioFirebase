@@ -1,4 +1,4 @@
-package com.example.desafiofireabse.ui
+package com.example.desafiofireabse
 
 import android.app.AlertDialog
 import android.content.Intent
