@@ -43,7 +43,7 @@
             android:textColor="@color/tvLogin" />
 
         <EditText
-            android:id="@+id/etNameJogo"
+            android:id="@+id/etNomeJogoAdd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -59,7 +59,7 @@
             android:textColor="@color/tvLogin" />
 
         <EditText
-            android:id="@+id/etCreateJogo"
+            android:id="@+id/etCreateJogoAdd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -76,7 +76,7 @@
             android:textColor="@color/tvLogin" />
 
         <EditText
-            android:id="@+id/etDescJogo"
+            android:id="@+id/etDescJogoAdd"
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:layout_marginLeft="20dp"
